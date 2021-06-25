@@ -1,6 +1,6 @@
 ### Hi there, my name is Matthew and this is my friend Snakito, nice to meet ya 🐍
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/honoredprince/honoredprince/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **HonoredPrince/honoredprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
